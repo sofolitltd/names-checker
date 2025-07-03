@@ -81,6 +81,7 @@ export default function RootLayout({
     <html lang="en" className={openSans.className}>
       <head>
         <link rel="icon" href="/favicon.ico" sizes="any" />
+        <meta name="google-site-verification" content="Evx4-_A8qr7gV3b3Kv7-JRn4xjAXaoNXNC2aG2sOjxs" />
       </head>
       <body>{children}</body>
     </html>
